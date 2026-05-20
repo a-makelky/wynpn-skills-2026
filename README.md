@@ -10,11 +10,12 @@ Started at the **2026 Wyoming Nonprofit Network Conference** (Casper, May 19–2
 
 Each `.md` file in this repo is one **agent skill:** a plain-text instruction file you can paste into ChatGPT, Claude, Gemini, or any other AI tool to make it do a specific job for your organization.
 
-Three starter skills to get you going:
+Four starter skills to get you going:
 
 - **[grant-narrative-drafter.md](grant-narrative-drafter.md):** Turn program details + funder priorities into a first-draft grant narrative
 - **[board-report-summarizer.md](board-report-summarizer.md):** Compress raw program/financial data into a tight one-page board update
 - **[donor-thank-you-generator.md](donor-thank-you-generator.md):** Write personal, non-generic thank-you notes that don't sound like a form letter
+- **[ai-writing-audit](ai-writing-audit/SKILL.md):** Run this AFTER any of the above. Catches the patterns that make AI-generated writing read as AI-generated, then rewrites in plain voice. Bundled as a folder with a reference checklist.
 
 Plus a starter template:
 
